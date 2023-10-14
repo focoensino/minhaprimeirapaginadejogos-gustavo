@@ -1,0 +1,33 @@
+body{
+  background-color:#3E81FF;
+  text-align:center;
+  
+}
+
+h1{
+  border:2px solid black;
+  border-color:#FA0B00;
+  padding:10px
+}
+
+#palavra1{
+  color:#38FF00;
+}
+#jogo1{
+  color:#01E2FF;
+  border:1px solid black;
+  padding:1px;
+}
+#jogo2{
+  color:black;
+  border:1px solid black;
+  padding:1px;
+}
+#jogo3{
+  color:red;
+  border:1px solid black;
+  padding:1px;
+}
+#palavra2{
+  color:#38FF00;
+}
